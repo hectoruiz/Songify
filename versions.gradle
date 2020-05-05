@@ -18,6 +18,7 @@ ext {
     materialVersion = '1.1.0'
     lifecycleVersion = '2.2.0'
     fragmentExtensionsVersion = '1.2.2'
+    navigationVersion = '2.2.2'
 
     // Testing
     junitVersion = '4.12'
